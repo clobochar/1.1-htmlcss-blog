@@ -40,7 +40,36 @@ a:active {
     padding-left: 20px;
     margin: 0;
     color: whitesmoke;
-    font-size: 40px;
+    font-size: 45px;
 }
+
+.main-container {
+    margin: 30px 60px 0px 60px;
+    padding-bottom: 100px;
+    border-bottom: 2px solid black;
+}
+
+.image-container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.main-image {
+    height: 500px;
+    width: 500px;
+}
+
+.text-container {
+    margin: 20px 200px 0px 55px;
+}
+
+.blog-title {
+    font-size: 35px;
+}
+
+.text {
+    text-align: left;
+}
+
 
 
