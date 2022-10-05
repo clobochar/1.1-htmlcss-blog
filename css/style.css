@@ -40,6 +40,7 @@ a:active {
     padding-left: 20px;
     margin: 0;
     color: whitesmoke;
+    text-shadow: 2px 2px #000000;
     font-size: 45px;
 }
 
@@ -69,6 +70,14 @@ a:active {
 
 .text {
     text-align: left;
+}
+
+.footer{
+    padding-top: 150px;
+}
+
+.footer-text {
+    text-align: center;
 }
 
 
