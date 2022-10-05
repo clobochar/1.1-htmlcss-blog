@@ -25,3 +25,22 @@ a:active {
     text-decoration: none;
     color: black;
 }
+
+.header-container {
+    background-image: url("../img/bridge.jpeg");
+    background-size: cover;
+    background-position: center;
+    border-bottom: 2px solid black;
+    height: 500px;
+    width: 100%;
+}
+
+.header-title {
+    padding-top: 450px;
+    padding-left: 20px;
+    margin: 0;
+    color: whitesmoke;
+    font-size: 40px;
+}
+
+
