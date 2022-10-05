@@ -1,0 +1,27 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    margin: 0;
+}
+
+.navbar-container {
+    border-bottom: 2px solid black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.navbar-item {
+    display: inline;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 8px;
+    font-size: 25px;
+}
+
+a:link,
+a:visited,
+a:hover,
+a:active {
+    text-decoration: none;
+    color: black;
+}
